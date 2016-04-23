@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Colors of Public Art - {{art.title.decode('utf-8')}}</title>
+        <link rel="stylesheet" href="/static/styles/index.css" type="text/css" media="screen" />
+    </head>
+    <body class="art-page">
+
+        <h1 class="title">{{art.title.decode('utf-8')}}</h1>
+
+        <div class="info-text">
+            <p class="info-text__display-date">Display date: {{art.display_date}}</p>
+            <p class="info-text__dimensions">Dimensions: {{art.dimensions.width}} x {{art.dimensions.height}} {{art.dimensions.unit}}</p>
+            <p class="info-text__maker">
+                Maker:
+                <a href="/artist/{{art.primary_maker.decode('utf-8')|urlencode}}">
+                    {{art.primary_maker.decode('utf-8')}}
+                </a>
+            </p>
+        </div>
+
+        <img class="image" src="/static/images/{{ art.object_id }}.jpg"/>
+
+        <div class="colors">
+            {% for colorname, color_percentage in color_histogram %}
+            {% set r,g,b = color_name_mapping[colorname] %}
+            <div class="colors__block">
+                <a href="/colors/{{colorname}}">
+                    <span class="colors__color" style="background-color: rgb({{r}},{{g}},{{b}});">
+                        <span class="colors__percentage">{{ '%02d' % (color_percentage * 100)}}%</span>
+                    </span>
+                </a>
+                <a href="/colors/{{colorname}}" class="colors__name" style="color: rgb({{r}},{{g}},{{b}});">
+                    {{colorname}}
+                </a>
+            </div>
+            {% endfor %}
+        </div>
+
+    </body>
+</html>

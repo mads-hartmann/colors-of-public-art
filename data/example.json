@@ -1,0 +1,2404 @@
+{
+  "objects": [
+    {
+      "dimensions": {
+        "order": 5,
+        "value": "50 x 40 cm",
+        "label": "Dimensions"
+      },
+      "lat": {
+        "order": 0,
+        "value": 55.652912,
+        "label": "Latitude"
+      },
+      "primaryMakerBirth": {
+        "order": 0,
+        "value": 1965
+      },
+      "region": {
+        "order": 0,
+        "value": "Sj\u00e6lland",
+        "label": "Region"
+      },
+      "id": {
+        "order": 0,
+        "value": 1,
+        "label": "Id"
+      },
+      "displayDate": {
+        "order": 3,
+        "value": 2000,
+        "label": "Date"
+      },
+      "provenance": {
+        "order": 0,
+        "value": "Kunstforeningen, K\u00f8benhavn",
+        "label": "Provenance"
+      },
+      "primaryMaker": {
+        "order": 3,
+        "value": "Henrik Brahe",
+        "label": "Primary Maker"
+      },
+      "institution": {
+        "order": 0,
+        "value": "Roskilde Universitetsbibliotek",
+        "label": "Institution"
+      },
+      "classifications": {
+        "order": 0,
+        "value": "Foto",
+        "label": "Type"
+      },
+      "primaryMakerId": {
+        "order": 0,
+        "value": 1068,
+        "label": "Primary Maker ID"
+      },
+      "primaryMakerSalutation": {
+        "order": 0,
+        "value": "m"
+      },
+      "title": {
+        "order": 2,
+        "value": "Portr\u00e6t af en metode",
+        "label": "Title"
+      },
+      "primaryMakerDeath": {
+        "order": 0,
+        "value": 0
+      },
+      "invno": {
+        "order": 9,
+        "value": "SKF-2000-047",
+        "label": "Object number"
+      },
+      "available": {
+        "order": 0,
+        "value": 0
+      },
+      "municipality": {
+        "order": 0,
+        "value": "Roskilde",
+        "label": "Municipality"
+      },
+      "media_0": {
+        "order": 0,
+        "label": "media",
+        "values": {
+          "field": [
+            {
+              "order": 0,
+              "value": "http:\/\/vores.kunst.dk\/daa_media\/Dokumenteret af SKF\/Billeder\/SKF\/SKF00\/SKF-2000-047_01.jpg",
+              "label": "Filename",
+              "name": "filename"
+            },
+            {
+              "order": 0,
+              "value": "",
+              "label": "Public Caption",
+              "name": "caption"
+            },
+            {
+              "order": 0,
+              "value": 1,
+              "label": "Primary Display",
+              "name": "primary"
+            }
+          ]
+        }
+      },
+      "onView": {
+        "order": 0,
+        "value": false
+      },
+      "lng": {
+        "order": 0,
+        "value": 12.143393,
+        "label": "Longitude"
+      },
+      "address": {
+        "order": 0,
+        "value": "Universitetsvej 1 Roskilde, 4000 Danmark",
+        "label": "Address"
+      }
+    },
+    {
+      "dimensions": {
+        "order": 5,
+        "value": "50 x 40 cm",
+        "label": "Dimensions"
+      },
+      "lat": {
+        "order": 0,
+        "value": 55.65296,
+        "label": "Latitude"
+      },
+      "primaryMakerBirth": {
+        "order": 0,
+        "value": 1965
+      },
+      "region": {
+        "order": 0,
+        "value": "Sj\u00e6lland",
+        "label": "Region"
+      },
+      "id": {
+        "order": 0,
+        "value": 2,
+        "label": "Id"
+      },
+      "displayDate": {
+        "order": 3,
+        "value": 2000,
+        "label": "Date"
+      },
+      "provenance": {
+        "order": 0,
+        "value": "Kunstforeningen, K\u00f8benhavn",
+        "label": "Provenance"
+      },
+      "primaryMaker": {
+        "order": 3,
+        "value": "Henrik Brahe",
+        "label": "Primary Maker"
+      },
+      "institution": {
+        "order": 0,
+        "value": "Roskilde Universitetsbibliotek",
+        "label": "Institution"
+      },
+      "classifications": {
+        "order": 0,
+        "value": "Foto",
+        "label": "Type"
+      },
+      "primaryMakerId": {
+        "order": 0,
+        "value": 1068,
+        "label": "Primary Maker ID"
+      },
+      "primaryMakerSalutation": {
+        "order": 0,
+        "value": "m"
+      },
+      "title": {
+        "order": 2,
+        "value": "Portr\u00e6t af en metode",
+        "label": "Title"
+      },
+      "primaryMakerDeath": {
+        "order": 0,
+        "value": 0
+      },
+      "invno": {
+        "order": 9,
+        "value": "SKF-2000-048",
+        "label": "Object number"
+      },
+      "available": {
+        "order": 0,
+        "value": 0
+      },
+      "municipality": {
+        "order": 0,
+        "value": "Roskilde",
+        "label": "Municipality"
+      },
+      "media_0": {
+        "order": 0,
+        "label": "media",
+        "values": {
+          "field": [
+            {
+              "order": 0,
+              "value": "http:\/\/vores.kunst.dk\/daa_media\/Dokumenteret af SKF\/Billeder\/SKF\/SKF00\/SKF-2000-048_01.jpg",
+              "label": "Filename",
+              "name": "filename"
+            },
+            {
+              "order": 0,
+              "value": "",
+              "label": "Public Caption",
+              "name": "caption"
+            },
+            {
+              "order": 0,
+              "value": 1,
+              "label": "Primary Display",
+              "name": "primary"
+            }
+          ]
+        }
+      },
+      "onView": {
+        "order": 0,
+        "value": false
+      },
+      "lng": {
+        "order": 0,
+        "value": 12.143393,
+        "label": "Longitude"
+      },
+      "address": {
+        "order": 0,
+        "value": "Universitetsvej 1 Roskilde, 4000 Danmark",
+        "label": "Address"
+      }
+    },
+    {
+      "dimensions": {
+        "order": 5,
+        "value": "300 x 150 x 100 cm",
+        "label": "Dimensions"
+      },
+      "lat": {
+        "order": 0,
+        "value": 56.132526,
+        "label": "Latitude"
+      },
+      "primaryMakerBirth": {
+        "order": 0,
+        "value": 1952
+      },
+      "region": {
+        "order": 0,
+        "value": "Midtjylland",
+        "label": "Region"
+      },
+      "id": {
+        "order": 0,
+        "value": 3,
+        "label": "Id"
+      },
+      "displayDate": {
+        "order": 3,
+        "value": 1996,
+        "label": "Date"
+      },
+      "provenance": {
+        "order": 0,
+        "value": "Arken Museum for Moderne Kunst, Ish\u00f8j",
+        "label": "Provenance"
+      },
+      "primaryMaker": {
+        "order": 3,
+        "value": "Poul Ingemann",
+        "label": "Primary Maker"
+      },
+      "institution": {
+        "order": 0,
+        "value": "Herning Kunstmuseum",
+        "label": "Institution"
+      },
+      "classifications": {
+        "order": 0,
+        "value": "Skulptur",
+        "label": "Type"
+      },
+      "primaryMakerId": {
+        "order": 0,
+        "value": 174,
+        "label": "Primary Maker ID"
+      },
+      "primaryMakerSalutation": {
+        "order": 0,
+        "value": "m"
+      },
+      "title": {
+        "order": 2,
+        "value": "Linnedskab fra m\u00f8belprojektet Chambre",
+        "label": "Title"
+      },
+      "primaryMakerDeath": {
+        "order": 0,
+        "value": 0
+      },
+      "invno": {
+        "order": 9,
+        "value": "SKF-1996-142",
+        "label": "Object number"
+      },
+      "available": {
+        "order": 0,
+        "value": 0
+      },
+      "municipality": {
+        "order": 0,
+        "value": "Herning",
+        "label": "Municipality"
+      },
+      "media_0": {
+        "order": 0,
+        "label": "media",
+        "values": {
+          "field": [
+            {
+              "order": 0,
+              "value": "http:\/\/vores.kunst.dk\/daa_media\/Dokumenteret af SKF\/Billeder\/SKF\/SKF95\/SKF-1996-142_01.jpg",
+              "label": "Filename",
+              "name": "filename"
+            },
+            {
+              "order": 0,
+              "value": "",
+              "label": "Public Caption",
+              "name": "caption"
+            },
+            {
+              "order": 0,
+              "value": 1,
+              "label": "Primary Display",
+              "name": "primary"
+            }
+          ]
+        }
+      },
+      "onView": {
+        "order": 0,
+        "value": false
+      },
+      "lng": {
+        "order": 0,
+        "value": 9.023407,
+        "label": "Longitude"
+      },
+      "address": {
+        "order": 0,
+        "value": "Birk Centerpark 3 Herning, 7400 Danmark",
+        "label": "Address"
+      }
+    },
+    {
+      "dimensions": {
+        "order": 5,
+        "value": "130 x 130 cm",
+        "label": "Dimensions"
+      },
+      "lat": {
+        "order": 0,
+        "value": 55.400787,
+        "label": "Latitude"
+      },
+      "primaryMakerBirth": {
+        "order": 0,
+        "value": 1940
+      },
+      "region": {
+        "order": 0,
+        "value": "Sj\u00e6lland",
+        "label": "Region"
+      },
+      "id": {
+        "order": 0,
+        "value": 4,
+        "label": "Id"
+      },
+      "displayDate": {
+        "order": 3,
+        "value": 1980,
+        "label": "Date"
+      },
+      "provenance": {
+        "order": 0,
+        "value": "S\u00f8pavillonen, K\u00f8benhavn",
+        "label": "Provenance"
+      },
+      "primaryMaker": {
+        "order": 3,
+        "value": "Steffen J\u00f8rgensen",
+        "label": "Primary Maker"
+      },
+      "institution": {
+        "order": 0,
+        "value": "Kriminalretten i Slagelse",
+        "label": "Institution"
+      },
+      "classifications": {
+        "order": 0,
+        "value": "Maleri",
+        "label": "Type"
+      },
+      "primaryMakerId": {
+        "order": 0,
+        "value": 208,
+        "label": "Primary Maker ID"
+      },
+      "primaryMakerSalutation": {
+        "order": 0,
+        "value": "m"
+      },
+      "title": {
+        "order": 2,
+        "value": "Konfiguration med atten linier 1980, acryl p\u00e5 l\u00e6rred",
+        "label": "Title"
+      },
+      "primaryMakerDeath": {
+        "order": 0,
+        "value": 0
+      },
+      "invno": {
+        "order": 9,
+        "value": "SKF-1986-178",
+        "label": "Object number"
+      },
+      "available": {
+        "order": 0,
+        "value": 0
+      },
+      "municipality": {
+        "order": 0,
+        "value": "Slagelse",
+        "label": "Municipality"
+      },
+      "media_0": {
+        "order": 0,
+        "label": "media",
+        "values": {
+          "field": [
+            {
+              "order": 0,
+              "value": "http:\/\/vores.kunst.dk\/daa_media\/Dokumenteret af SKF\/Billeder\/SKF\/SKF85\/SKF-1986-178_01.jpg",
+              "label": "Filename",
+              "name": "filename"
+            },
+            {
+              "order": 0,
+              "value": "",
+              "label": "Public Caption",
+              "name": "caption"
+            },
+            {
+              "order": 0,
+              "value": 1,
+              "label": "Primary Display",
+              "name": "primary"
+            }
+          ]
+        }
+      },
+      "onView": {
+        "order": 0,
+        "value": false
+      },
+      "lng": {
+        "order": 0,
+        "value": 11.353415,
+        "label": "Longitude"
+      },
+      "address": {
+        "order": 0,
+        "value": "Bjergbygade 3 Slagelse, 4200 Danmark",
+        "label": "Address"
+      }
+    },
+    {
+      "dimensions": {
+        "order": 5,
+        "value": "70 x 100 cm",
+        "label": "Dimensions"
+      },
+      "lat": {
+        "order": 0,
+        "value": 55.703957,
+        "label": "Latitude"
+      },
+      "primaryMakerBirth": {
+        "order": 0,
+        "value": 1940
+      },
+      "region": {
+        "order": 0,
+        "value": "Hovedstaden",
+        "label": "Region"
+      },
+      "id": {
+        "order": 0,
+        "value": 5,
+        "label": "Id"
+      },
+      "displayDate": {
+        "order": 3,
+        "value": 1985,
+        "label": "Date"
+      },
+      "provenance": {
+        "order": 0,
+        "value": "S\u00f8pavillonen, K\u00f8benhavn",
+        "label": "Provenance"
+      },
+      "primaryMaker": {
+        "order": 3,
+        "value": "Steffen J\u00f8rgensen",
+        "label": "Primary Maker"
+      },
+      "institution": {
+        "order": 0,
+        "value": "UNI-C, tidligere Danmarks Edb-Center",
+        "label": "Institution"
+      },
+      "classifications": {
+        "order": 0,
+        "value": "Tegning",
+        "label": "Type"
+      },
+      "primaryMakerId": {
+        "order": 0,
+        "value": 208,
+        "label": "Primary Maker ID"
+      },
+      "primaryMakerSalutation": {
+        "order": 0,
+        "value": "m"
+      },
+      "title": {
+        "order": 2,
+        "value": "To femkanter i konfiguration, 1985, collage og kridt",
+        "label": "Title"
+      },
+      "primaryMakerDeath": {
+        "order": 0,
+        "value": 0
+      },
+      "invno": {
+        "order": 9,
+        "value": "SKF-1986-179",
+        "label": "Object number"
+      },
+      "available": {
+        "order": 0,
+        "value": 0
+      },
+      "municipality": {
+        "order": 0,
+        "value": "K\u00f8benhavn",
+        "label": "Municipality"
+      },
+      "media_0": {
+        "order": 0,
+        "label": "media",
+        "values": {
+          "field": [
+            {
+              "order": 0,
+              "value": "http:\/\/vores.kunst.dk\/daa_media\/Dokumenteret af SKF\/Billeder\/SKF\/SKF85\/SKF-1986-179_01.jpg",
+              "label": "Filename",
+              "name": "filename"
+            },
+            {
+              "order": 0,
+              "value": "",
+              "label": "Public Caption",
+              "name": "caption"
+            },
+            {
+              "order": 0,
+              "value": 1,
+              "label": "Primary Display",
+              "name": "primary"
+            }
+          ]
+        }
+      },
+      "onView": {
+        "order": 0,
+        "value": false
+      },
+      "lng": {
+        "order": 0,
+        "value": 12.55612,
+        "label": "Longitude"
+      },
+      "address": {
+        "order": 0,
+        "value": "Vermundsgade 5 K\u00f8benhavn \u00d8, 2100 Danmark",
+        "label": "Address"
+      }
+    },
+    {
+      "dimensions": {
+        "order": 5,
+        "value": "70 x 100 cm",
+        "label": "Dimensions"
+      },
+      "lat": {
+        "order": 0,
+        "value": 55.704006,
+        "label": "Latitude"
+      },
+      "primaryMakerBirth": {
+        "order": 0,
+        "value": 1940
+      },
+      "region": {
+        "order": 0,
+        "value": "Hovedstaden",
+        "label": "Region"
+      },
+      "id": {
+        "order": 0,
+        "value": 6,
+        "label": "Id"
+      },
+      "displayDate": {
+        "order": 3,
+        "value": 1985,
+        "label": "Date"
+      },
+      "provenance": {
+        "order": 0,
+        "value": "S\u00f8pavillonen, K\u00f8benhavn",
+        "label": "Provenance"
+      },
+      "primaryMaker": {
+        "order": 3,
+        "value": "Steffen J\u00f8rgensen",
+        "label": "Primary Maker"
+      },
+      "institution": {
+        "order": 0,
+        "value": "UNI-C, tidligere Danmarks Edb-Center",
+        "label": "Institution"
+      },
+      "classifications": {
+        "order": 0,
+        "value": "Tegning",
+        "label": "Type"
+      },
+      "primaryMakerId": {
+        "order": 0,
+        "value": 208,
+        "label": "Primary Maker ID"
+      },
+      "primaryMakerSalutation": {
+        "order": 0,
+        "value": "m"
+      },
+      "title": {
+        "order": 2,
+        "value": "To femkanter i konfiguration, 1985, collage og kridt",
+        "label": "Title"
+      },
+      "primaryMakerDeath": {
+        "order": 0,
+        "value": 0
+      },
+      "invno": {
+        "order": 9,
+        "value": "SKF-1986-180",
+        "label": "Object number"
+      },
+      "available": {
+        "order": 0,
+        "value": 0
+      },
+      "municipality": {
+        "order": 0,
+        "value": "K\u00f8benhavn",
+        "label": "Municipality"
+      },
+      "media_0": {
+        "order": 0,
+        "label": "media",
+        "values": {
+          "field": [
+            {
+              "order": 0,
+              "value": "http:\/\/vores.kunst.dk\/daa_media\/Dokumenteret af SKF\/Billeder\/SKF\/SKF85\/SKF-1986-180_01.jpg",
+              "label": "Filename",
+              "name": "filename"
+            },
+            {
+              "order": 0,
+              "value": "",
+              "label": "Public Caption",
+              "name": "caption"
+            },
+            {
+              "order": 0,
+              "value": 1,
+              "label": "Primary Display",
+              "name": "primary"
+            }
+          ]
+        }
+      },
+      "onView": {
+        "order": 0,
+        "value": false
+      },
+      "lng": {
+        "order": 0,
+        "value": 12.55612,
+        "label": "Longitude"
+      },
+      "address": {
+        "order": 0,
+        "value": "Vermundsgade 5 K\u00f8benhavn \u00d8, 2100 Danmark",
+        "label": "Address"
+      }
+    },
+    {
+      "dimensions": {
+        "order": 5,
+        "value": "70 x 100 cm",
+        "label": "Dimensions"
+      },
+      "lat": {
+        "order": 0,
+        "value": 55.704056,
+        "label": "Latitude"
+      },
+      "primaryMakerBirth": {
+        "order": 0,
+        "value": 1940
+      },
+      "region": {
+        "order": 0,
+        "value": "Hovedstaden",
+        "label": "Region"
+      },
+      "id": {
+        "order": 0,
+        "value": 7,
+        "label": "Id"
+      },
+      "displayDate": {
+        "order": 3,
+        "value": 1985,
+        "label": "Date"
+      },
+      "provenance": {
+        "order": 0,
+        "value": "S\u00f8pavillonen, K\u00f8benhavn",
+        "label": "Provenance"
+      },
+      "primaryMaker": {
+        "order": 3,
+        "value": "Steffen J\u00f8rgensen",
+        "label": "Primary Maker"
+      },
+      "institution": {
+        "order": 0,
+        "value": "UNI-C, tidligere Danmarks Edb-Center",
+        "label": "Institution"
+      },
+      "classifications": {
+        "order": 0,
+        "value": "Tegning",
+        "label": "Type"
+      },
+      "primaryMakerId": {
+        "order": 0,
+        "value": 208,
+        "label": "Primary Maker ID"
+      },
+      "primaryMakerSalutation": {
+        "order": 0,
+        "value": "m"
+      },
+      "title": {
+        "order": 2,
+        "value": "To femkanter i konfiguration, 1985, collage og kridt",
+        "label": "Title"
+      },
+      "primaryMakerDeath": {
+        "order": 0,
+        "value": 0
+      },
+      "invno": {
+        "order": 9,
+        "value": "SKF-1986-181",
+        "label": "Object number"
+      },
+      "available": {
+        "order": 0,
+        "value": 0
+      },
+      "municipality": {
+        "order": 0,
+        "value": "K\u00f8benhavn",
+        "label": "Municipality"
+      },
+      "media_0": {
+        "order": 0,
+        "label": "media",
+        "values": {
+          "field": [
+            {
+              "order": 0,
+              "value": "http:\/\/vores.kunst.dk\/daa_media\/Dokumenteret af SKF\/Billeder\/SKF\/SKF85\/SKF-1986-181_01.jpg",
+              "label": "Filename",
+              "name": "filename"
+            },
+            {
+              "order": 0,
+              "value": "",
+              "label": "Public Caption",
+              "name": "caption"
+            },
+            {
+              "order": 0,
+              "value": 1,
+              "label": "Primary Display",
+              "name": "primary"
+            }
+          ]
+        }
+      },
+      "onView": {
+        "order": 0,
+        "value": false
+      },
+      "lng": {
+        "order": 0,
+        "value": 12.55612,
+        "label": "Longitude"
+      },
+      "address": {
+        "order": 0,
+        "value": "Vermundsgade 5 K\u00f8benhavn \u00d8, 2100 Danmark",
+        "label": "Address"
+      }
+    },
+    {
+      "dimensions": {
+        "order": 5,
+        "value": "70 x 100 cm",
+        "label": "Dimensions"
+      },
+      "lat": {
+        "order": 0,
+        "value": 55.704006,
+        "label": "Latitude"
+      },
+      "primaryMakerBirth": {
+        "order": 0,
+        "value": 1940
+      },
+      "region": {
+        "order": 0,
+        "value": "Hovedstaden",
+        "label": "Region"
+      },
+      "id": {
+        "order": 0,
+        "value": 8,
+        "label": "Id"
+      },
+      "displayDate": {
+        "order": 3,
+        "value": 1985,
+        "label": "Date"
+      },
+      "provenance": {
+        "order": 0,
+        "value": "S\u00f8pavillonen, K\u00f8benhavn",
+        "label": "Provenance"
+      },
+      "primaryMaker": {
+        "order": 3,
+        "value": "Steffen J\u00f8rgensen",
+        "label": "Primary Maker"
+      },
+      "institution": {
+        "order": 0,
+        "value": "UNI-C, tidligere Danmarks Edb-Center",
+        "label": "Institution"
+      },
+      "classifications": {
+        "order": 0,
+        "value": "Tegning",
+        "label": "Type"
+      },
+      "primaryMakerId": {
+        "order": 0,
+        "value": 208,
+        "label": "Primary Maker ID"
+      },
+      "primaryMakerSalutation": {
+        "order": 0,
+        "value": "m"
+      },
+      "title": {
+        "order": 2,
+        "value": "Tre trekanter i konfiguration, 1985, collage og kridt",
+        "label": "Title"
+      },
+      "primaryMakerDeath": {
+        "order": 0,
+        "value": 0
+      },
+      "invno": {
+        "order": 9,
+        "value": "SKF-1986-182",
+        "label": "Object number"
+      },
+      "available": {
+        "order": 0,
+        "value": 0
+      },
+      "municipality": {
+        "order": 0,
+        "value": "K\u00f8benhavn",
+        "label": "Municipality"
+      },
+      "media_0": {
+        "order": 0,
+        "label": "media",
+        "values": {
+          "field": [
+            {
+              "order": 0,
+              "value": "http:\/\/vores.kunst.dk\/daa_media\/Dokumenteret af SKF\/Billeder\/SKF\/SKF85\/SKF-1986-182_01.jpg",
+              "label": "Filename",
+              "name": "filename"
+            },
+            {
+              "order": 0,
+              "value": "",
+              "label": "Public Caption",
+              "name": "caption"
+            },
+            {
+              "order": 0,
+              "value": 1,
+              "label": "Primary Display",
+              "name": "primary"
+            }
+          ]
+        }
+      },
+      "onView": {
+        "order": 0,
+        "value": false
+      },
+      "lng": {
+        "order": 0,
+        "value": 12.55622,
+        "label": "Longitude"
+      },
+      "address": {
+        "order": 0,
+        "value": "Vermundsgade 5 K\u00f8benhavn \u00d8, 2100 Danmark",
+        "label": "Address"
+      }
+    },
+    {
+      "dimensions": {
+        "order": 5,
+        "value": "70 x 50 cm",
+        "label": "Dimensions"
+      },
+      "lat": {
+        "order": 0,
+        "value": 56.816803,
+        "label": "Latitude"
+      },
+      "primaryMakerBirth": {
+        "order": 0,
+        "value": 1940
+      },
+      "region": {
+        "order": 0,
+        "value": "Nordjylland",
+        "label": "Region"
+      },
+      "id": {
+        "order": 0,
+        "value": 9,
+        "label": "Id"
+      },
+      "displayDate": {
+        "order": 3,
+        "value": 1986,
+        "label": "Date"
+      },
+      "provenance": {
+        "order": 0,
+        "value": "Galleri Scag, K\u00f8benhavn",
+        "label": "Provenance"
+      },
+      "primaryMaker": {
+        "order": 3,
+        "value": "Steffen J\u00f8rgensen",
+        "label": "Primary Maker"
+      },
+      "institution": {
+        "order": 0,
+        "value": "Sk\u00f8rping kommune",
+        "label": "Institution"
+      },
+      "classifications": {
+        "order": 0,
+        "value": "Grafik",
+        "label": "Type"
+      },
+      "primaryMakerId": {
+        "order": 0,
+        "value": 208,
+        "label": "Primary Maker ID"
+      },
+      "primaryMakerSalutation": {
+        "order": 0,
+        "value": "m"
+      },
+      "title": {
+        "order": 2,
+        "value": "Decompositions of the Desargues- Configurations in two mutually inscribed Pentagons 1986, serigra",
+        "label": "Title"
+      },
+      "primaryMakerDeath": {
+        "order": 0,
+        "value": 0
+      },
+      "invno": {
+        "order": 9,
+        "value": "SKF-1990-046a",
+        "label": "Object number"
+      },
+      "available": {
+        "order": 0,
+        "value": 0
+      },
+      "municipality": {
+        "order": 0,
+        "value": "Rebild",
+        "label": "Municipality"
+      },
+      "media_0": {
+        "order": 0,
+        "label": "media",
+        "values": {
+          "field": [
+            {
+              "order": 0,
+              "value": "http:\/\/vores.kunst.dk\/daa_media\/Dokumenteret af SKF\/Billeder\/SKF\/SKF90\/SKF-1990-046_01.jpg",
+              "label": "Filename",
+              "name": "filename"
+            },
+            {
+              "order": 0,
+              "value": "",
+              "label": "Public Caption",
+              "name": "caption"
+            },
+            {
+              "order": 0,
+              "value": 1,
+              "label": "Primary Display",
+              "name": "primary"
+            }
+          ]
+        }
+      },
+      "onView": {
+        "order": 0,
+        "value": false
+      },
+      "lng": {
+        "order": 0,
+        "value": 10.050421,
+        "label": "Longitude"
+      },
+      "address": {
+        "order": 0,
+        "value": "Sk\u00f8rpingvej 7 Terndrup, 9575 Danmark",
+        "label": "Address"
+      }
+    },
+    {
+      "dimensions": {
+        "order": 5,
+        "value": "70 x 50 cm",
+        "label": "Dimensions"
+      },
+      "lat": {
+        "order": 0,
+        "value": 56.816853,
+        "label": "Latitude"
+      },
+      "primaryMakerBirth": {
+        "order": 0,
+        "value": 1940
+      },
+      "region": {
+        "order": 0,
+        "value": "Nordjylland",
+        "label": "Region"
+      },
+      "id": {
+        "order": 0,
+        "value": 10,
+        "label": "Id"
+      },
+      "displayDate": {
+        "order": 3,
+        "value": 1986,
+        "label": "Date"
+      },
+      "provenance": {
+        "order": 0,
+        "value": "Galleri Scag, K\u00f8benhavn",
+        "label": "Provenance"
+      },
+      "primaryMaker": {
+        "order": 3,
+        "value": "Steffen J\u00f8rgensen",
+        "label": "Primary Maker"
+      },
+      "institution": {
+        "order": 0,
+        "value": "Sk\u00f8rping kommune",
+        "label": "Institution"
+      },
+      "classifications": {
+        "order": 0,
+        "value": "Grafik",
+        "label": "Type"
+      },
+      "primaryMakerId": {
+        "order": 0,
+        "value": 208,
+        "label": "Primary Maker ID"
+      },
+      "primaryMakerSalutation": {
+        "order": 0,
+        "value": "m"
+      },
+      "title": {
+        "order": 2,
+        "value": "Decompositions of the Desargues- Configurations in two mutually inscribed Pentagons 1986, serigra",
+        "label": "Title"
+      },
+      "primaryMakerDeath": {
+        "order": 0,
+        "value": 0
+      },
+      "invno": {
+        "order": 9,
+        "value": "SKF-1990-046b",
+        "label": "Object number"
+      },
+      "available": {
+        "order": 0,
+        "value": 0
+      },
+      "municipality": {
+        "order": 0,
+        "value": "Rebild",
+        "label": "Municipality"
+      },
+      "media_0": {
+        "order": 0,
+        "label": "media",
+        "values": {
+          "field": [
+            {
+              "order": 0,
+              "value": "http:\/\/vores.kunst.dk\/daa_media\/Dokumenteret af SKF\/Billeder\/SKF\/SKF90\/SKF-1990-046_02.jpg",
+              "label": "Filename",
+              "name": "filename"
+            },
+            {
+              "order": 0,
+              "value": "",
+              "label": "Public Caption",
+              "name": "caption"
+            },
+            {
+              "order": 0,
+              "value": 1,
+              "label": "Primary Display",
+              "name": "primary"
+            }
+          ]
+        }
+      },
+      "onView": {
+        "order": 0,
+        "value": false
+      },
+      "lng": {
+        "order": 0,
+        "value": 10.050421,
+        "label": "Longitude"
+      },
+      "address": {
+        "order": 0,
+        "value": "Sk\u00f8rpingvej 7 Terndrup, 9575 Danmark",
+        "label": "Address"
+      }
+    },
+    {
+      "dimensions": {
+        "order": 5,
+        "value": "70 x 50 cm",
+        "label": "Dimensions"
+      },
+      "lat": {
+        "order": 0,
+        "value": 56.816902,
+        "label": "Latitude"
+      },
+      "primaryMakerBirth": {
+        "order": 0,
+        "value": 1940
+      },
+      "region": {
+        "order": 0,
+        "value": "Nordjylland",
+        "label": "Region"
+      },
+      "id": {
+        "order": 0,
+        "value": 11,
+        "label": "Id"
+      },
+      "displayDate": {
+        "order": 3,
+        "value": 1986,
+        "label": "Date"
+      },
+      "provenance": {
+        "order": 0,
+        "value": "Galleri Scag, K\u00f8benhavn",
+        "label": "Provenance"
+      },
+      "primaryMaker": {
+        "order": 3,
+        "value": "Steffen J\u00f8rgensen",
+        "label": "Primary Maker"
+      },
+      "institution": {
+        "order": 0,
+        "value": "Sk\u00f8rping kommune",
+        "label": "Institution"
+      },
+      "classifications": {
+        "order": 0,
+        "value": "Grafik",
+        "label": "Type"
+      },
+      "primaryMakerId": {
+        "order": 0,
+        "value": 208,
+        "label": "Primary Maker ID"
+      },
+      "primaryMakerSalutation": {
+        "order": 0,
+        "value": "m"
+      },
+      "title": {
+        "order": 2,
+        "value": "Decompositions of the Desargues- Configurations in two mutually inscribed Pentagons 1986, serigra",
+        "label": "Title"
+      },
+      "primaryMakerDeath": {
+        "order": 0,
+        "value": 0
+      },
+      "invno": {
+        "order": 9,
+        "value": "SKF-1990-046c",
+        "label": "Object number"
+      },
+      "available": {
+        "order": 0,
+        "value": 0
+      },
+      "municipality": {
+        "order": 0,
+        "value": "Rebild",
+        "label": "Municipality"
+      },
+      "media_0": {
+        "order": 0,
+        "label": "media",
+        "values": {
+          "field": [
+            {
+              "order": 0,
+              "value": "http:\/\/vores.kunst.dk\/daa_media\/Dokumenteret af SKF\/Billeder\/SKF\/SKF90\/SKF-1990-046_03.jpg",
+              "label": "Filename",
+              "name": "filename"
+            },
+            {
+              "order": 0,
+              "value": "",
+              "label": "Public Caption",
+              "name": "caption"
+            },
+            {
+              "order": 0,
+              "value": 1,
+              "label": "Primary Display",
+              "name": "primary"
+            }
+          ]
+        }
+      },
+      "onView": {
+        "order": 0,
+        "value": false
+      },
+      "lng": {
+        "order": 0,
+        "value": 10.050421,
+        "label": "Longitude"
+      },
+      "address": {
+        "order": 0,
+        "value": "Sk\u00f8rpingvej 7 Terndrup, 9575 Danmark",
+        "label": "Address"
+      }
+    },
+    {
+      "dimensions": {
+        "order": 5,
+        "value": "70 x 50 cm",
+        "label": "Dimensions"
+      },
+      "lat": {
+        "order": 0,
+        "value": 56.816853,
+        "label": "Latitude"
+      },
+      "primaryMakerBirth": {
+        "order": 0,
+        "value": 1940
+      },
+      "region": {
+        "order": 0,
+        "value": "Nordjylland",
+        "label": "Region"
+      },
+      "id": {
+        "order": 0,
+        "value": 12,
+        "label": "Id"
+      },
+      "displayDate": {
+        "order": 3,
+        "value": 1986,
+        "label": "Date"
+      },
+      "provenance": {
+        "order": 0,
+        "value": "Galleri Scag, K\u00f8benhavn",
+        "label": "Provenance"
+      },
+      "primaryMaker": {
+        "order": 3,
+        "value": "Steffen J\u00f8rgensen",
+        "label": "Primary Maker"
+      },
+      "institution": {
+        "order": 0,
+        "value": "Sk\u00f8rping kommune",
+        "label": "Institution"
+      },
+      "classifications": {
+        "order": 0,
+        "value": "Grafik",
+        "label": "Type"
+      },
+      "primaryMakerId": {
+        "order": 0,
+        "value": 208,
+        "label": "Primary Maker ID"
+      },
+      "primaryMakerSalutation": {
+        "order": 0,
+        "value": "m"
+      },
+      "title": {
+        "order": 2,
+        "value": "Decompositions of the Desargues- Configurations in two mutually inscribed Pentagons 1986, serigra",
+        "label": "Title"
+      },
+      "primaryMakerDeath": {
+        "order": 0,
+        "value": 0
+      },
+      "invno": {
+        "order": 9,
+        "value": "SKF-1990-046d",
+        "label": "Object number"
+      },
+      "available": {
+        "order": 0,
+        "value": 0
+      },
+      "municipality": {
+        "order": 0,
+        "value": "Rebild",
+        "label": "Municipality"
+      },
+      "media_0": {
+        "order": 0,
+        "label": "media",
+        "values": {
+          "field": [
+            {
+              "order": 0,
+              "value": "http:\/\/vores.kunst.dk\/daa_media\/Dokumenteret af SKF\/Billeder\/SKF\/SKF90\/SKF-1990-046_04.jpg",
+              "label": "Filename",
+              "name": "filename"
+            },
+            {
+              "order": 0,
+              "value": "",
+              "label": "Public Caption",
+              "name": "caption"
+            },
+            {
+              "order": 0,
+              "value": 1,
+              "label": "Primary Display",
+              "name": "primary"
+            }
+          ]
+        }
+      },
+      "onView": {
+        "order": 0,
+        "value": false
+      },
+      "lng": {
+        "order": 0,
+        "value": 10.050521,
+        "label": "Longitude"
+      },
+      "address": {
+        "order": 0,
+        "value": "Sk\u00f8rpingvej 7 Terndrup, 9575 Danmark",
+        "label": "Address"
+      }
+    },
+    {
+      "dimensions": {
+        "order": 5,
+        "value": "70 x 50 cm",
+        "label": "Dimensions"
+      },
+      "lat": {
+        "order": 0,
+        "value": 56.817,
+        "label": "Latitude"
+      },
+      "primaryMakerBirth": {
+        "order": 0,
+        "value": 1940
+      },
+      "region": {
+        "order": 0,
+        "value": "Nordjylland",
+        "label": "Region"
+      },
+      "id": {
+        "order": 0,
+        "value": 13,
+        "label": "Id"
+      },
+      "displayDate": {
+        "order": 3,
+        "value": 1986,
+        "label": "Date"
+      },
+      "provenance": {
+        "order": 0,
+        "value": "Galleri Scag, K\u00f8benhavn",
+        "label": "Provenance"
+      },
+      "primaryMaker": {
+        "order": 3,
+        "value": "Steffen J\u00f8rgensen",
+        "label": "Primary Maker"
+      },
+      "institution": {
+        "order": 0,
+        "value": "Sk\u00f8rping kommune",
+        "label": "Institution"
+      },
+      "classifications": {
+        "order": 0,
+        "value": "Grafik",
+        "label": "Type"
+      },
+      "primaryMakerId": {
+        "order": 0,
+        "value": 208,
+        "label": "Primary Maker ID"
+      },
+      "primaryMakerSalutation": {
+        "order": 0,
+        "value": "m"
+      },
+      "title": {
+        "order": 2,
+        "value": "Decompositions of the Desargues- Configurations in two mutually inscribed Pentagons 1986, serigra",
+        "label": "Title"
+      },
+      "primaryMakerDeath": {
+        "order": 0,
+        "value": 0
+      },
+      "invno": {
+        "order": 9,
+        "value": "SKF-1990-046e",
+        "label": "Object number"
+      },
+      "available": {
+        "order": 0,
+        "value": 0
+      },
+      "municipality": {
+        "order": 0,
+        "value": "Rebild",
+        "label": "Municipality"
+      },
+      "media_0": {
+        "order": 0,
+        "label": "media",
+        "values": {
+          "field": [
+            {
+              "order": 0,
+              "value": "http:\/\/vores.kunst.dk\/daa_media\/Dokumenteret af SKF\/Billeder\/SKF\/SKF90\/SKF-1990-046_05.jpg",
+              "label": "Filename",
+              "name": "filename"
+            },
+            {
+              "order": 0,
+              "value": "",
+              "label": "Public Caption",
+              "name": "caption"
+            },
+            {
+              "order": 0,
+              "value": 1,
+              "label": "Primary Display",
+              "name": "primary"
+            }
+          ]
+        }
+      },
+      "onView": {
+        "order": 0,
+        "value": false
+      },
+      "lng": {
+        "order": 0,
+        "value": 10.050421,
+        "label": "Longitude"
+      },
+      "address": {
+        "order": 0,
+        "value": "Sk\u00f8rpingvej 7 Terndrup, 9575 Danmark",
+        "label": "Address"
+      }
+    },
+    {
+      "dimensions": {
+        "order": 5,
+        "value": "130 x 130 cm",
+        "label": "Dimensions"
+      },
+      "lat": {
+        "order": 0,
+        "value": 56.816853,
+        "label": "Latitude"
+      },
+      "primaryMakerBirth": {
+        "order": 0,
+        "value": 1940
+      },
+      "region": {
+        "order": 0,
+        "value": "Nordjylland",
+        "label": "Region"
+      },
+      "id": {
+        "order": 0,
+        "value": 14,
+        "label": "Id"
+      },
+      "displayDate": {
+        "order": 3,
+        "value": 1991,
+        "label": "Date"
+      },
+      "provenance": {
+        "order": 0,
+        "value": "Gentofte Hovedbibliotek",
+        "label": "Provenance"
+      },
+      "primaryMaker": {
+        "order": 3,
+        "value": "Steffen J\u00f8rgensen",
+        "label": "Primary Maker"
+      },
+      "institution": {
+        "order": 0,
+        "value": "Sk\u00f8rping kommune",
+        "label": "Institution"
+      },
+      "classifications": {
+        "order": 0,
+        "value": "Maleri",
+        "label": "Type"
+      },
+      "primaryMakerId": {
+        "order": 0,
+        "value": 208,
+        "label": "Primary Maker ID"
+      },
+      "primaryMakerSalutation": {
+        "order": 0,
+        "value": "m"
+      },
+      "title": {
+        "order": 2,
+        "value": "Desargues-konfiguration 91, acryl p\u00e5 l\u00e6rred",
+        "label": "Title"
+      },
+      "primaryMakerDeath": {
+        "order": 0,
+        "value": 0
+      },
+      "invno": {
+        "order": 9,
+        "value": "SKF-1992-069",
+        "label": "Object number"
+      },
+      "available": {
+        "order": 0,
+        "value": 0
+      },
+      "municipality": {
+        "order": 0,
+        "value": "Rebild",
+        "label": "Municipality"
+      },
+      "media_0": {
+        "order": 0,
+        "label": "media",
+        "values": {
+          "field": [
+            {
+              "order": 0,
+              "value": "http:\/\/vores.kunst.dk\/daa_media\/Dokumenteret af SKF\/Billeder\/SKF\/SKF90\/SKF-1992-069_01.jpg",
+              "label": "Filename",
+              "name": "filename"
+            },
+            {
+              "order": 0,
+              "value": "",
+              "label": "Public Caption",
+              "name": "caption"
+            },
+            {
+              "order": 0,
+              "value": 1,
+              "label": "Primary Display",
+              "name": "primary"
+            }
+          ]
+        }
+      },
+      "onView": {
+        "order": 0,
+        "value": false
+      },
+      "lng": {
+        "order": 0,
+        "value": 10.050621,
+        "label": "Longitude"
+      },
+      "address": {
+        "order": 0,
+        "value": "Sk\u00f8rpingvej 7 Terndrup, 9575 Danmark",
+        "label": "Address"
+      }
+    },
+    {
+      "dimensions": {
+        "order": 5,
+        "value": "130 x 130 cm",
+        "label": "Dimensions"
+      },
+      "lat": {
+        "order": 0,
+        "value": 56.8171,
+        "label": "Latitude"
+      },
+      "primaryMakerBirth": {
+        "order": 0,
+        "value": 1940
+      },
+      "region": {
+        "order": 0,
+        "value": "Nordjylland",
+        "label": "Region"
+      },
+      "id": {
+        "order": 0,
+        "value": 15,
+        "label": "Id"
+      },
+      "displayDate": {
+        "order": 3,
+        "value": 1991,
+        "label": "Date"
+      },
+      "provenance": {
+        "order": 0,
+        "value": "Gentofte Hovedbibliotek",
+        "label": "Provenance"
+      },
+      "primaryMaker": {
+        "order": 3,
+        "value": "Steffen J\u00f8rgensen",
+        "label": "Primary Maker"
+      },
+      "institution": {
+        "order": 0,
+        "value": "Sk\u00f8rping kommune",
+        "label": "Institution"
+      },
+      "classifications": {
+        "order": 0,
+        "value": "Maleri",
+        "label": "Type"
+      },
+      "primaryMakerId": {
+        "order": 0,
+        "value": 208,
+        "label": "Primary Maker ID"
+      },
+      "primaryMakerSalutation": {
+        "order": 0,
+        "value": "m"
+      },
+      "title": {
+        "order": 2,
+        "value": "Desargues-net 91, acryl p\u00e5 l\u00e6rred",
+        "label": "Title"
+      },
+      "primaryMakerDeath": {
+        "order": 0,
+        "value": 0
+      },
+      "invno": {
+        "order": 9,
+        "value": "SKF-1992-070",
+        "label": "Object number"
+      },
+      "available": {
+        "order": 0,
+        "value": 0
+      },
+      "municipality": {
+        "order": 0,
+        "value": "Rebild",
+        "label": "Municipality"
+      },
+      "media_0": {
+        "order": 0,
+        "label": "media",
+        "values": {
+          "field": [
+            {
+              "order": 0,
+              "value": "http:\/\/vores.kunst.dk\/daa_media\/Dokumenteret af SKF\/Billeder\/SKF\/SKF90\/SKF-1992-070_01.jpg",
+              "label": "Filename",
+              "name": "filename"
+            },
+            {
+              "order": 0,
+              "value": "",
+              "label": "Public Caption",
+              "name": "caption"
+            },
+            {
+              "order": 0,
+              "value": 1,
+              "label": "Primary Display",
+              "name": "primary"
+            }
+          ]
+        }
+      },
+      "onView": {
+        "order": 0,
+        "value": false
+      },
+      "lng": {
+        "order": 0,
+        "value": 10.050421,
+        "label": "Longitude"
+      },
+      "address": {
+        "order": 0,
+        "value": "Sk\u00f8rpingvej 7 Terndrup, 9575 Danmark",
+        "label": "Address"
+      }
+    },
+    {
+      "dimensions": {
+        "order": 5,
+        "value": "130 x 130 cm",
+        "label": "Dimensions"
+      },
+      "lat": {
+        "order": 0,
+        "value": 55.755035,
+        "label": "Latitude"
+      },
+      "primaryMakerBirth": {
+        "order": 0,
+        "value": 1940
+      },
+      "region": {
+        "order": 0,
+        "value": "Hovedstaden",
+        "label": "Region"
+      },
+      "id": {
+        "order": 0,
+        "value": 16,
+        "label": "Id"
+      },
+      "displayDate": {
+        "order": 3,
+        "value": 1983,
+        "label": "Date"
+      },
+      "provenance": {
+        "order": 0,
+        "value": "Nikolaj, K\u00f8benhavns Kommunes Udstillingsbygning",
+        "label": "Provenance"
+      },
+      "primaryMaker": {
+        "order": 3,
+        "value": "Steffen J\u00f8rgensen",
+        "label": "Primary Maker"
+      },
+      "institution": {
+        "order": 0,
+        "value": "Tj\u00f8rneg\u00e5rdsskolen",
+        "label": "Institution"
+      },
+      "classifications": {
+        "order": 0,
+        "value": "Maleri",
+        "label": "Type"
+      },
+      "primaryMakerId": {
+        "order": 0,
+        "value": 208,
+        "label": "Primary Maker ID"
+      },
+      "primaryMakerSalutation": {
+        "order": 0,
+        "value": "m"
+      },
+      "title": {
+        "order": 2,
+        "value": "G C (9,3) Gamma",
+        "label": "Title"
+      },
+      "primaryMakerDeath": {
+        "order": 0,
+        "value": 0
+      },
+      "invno": {
+        "order": 9,
+        "value": "SKF-1994-025",
+        "label": "Object number"
+      },
+      "available": {
+        "order": 0,
+        "value": 0
+      },
+      "municipality": {
+        "order": 0,
+        "value": "Gentofte",
+        "label": "Municipality"
+      },
+      "media_0": {
+        "order": 0,
+        "label": "media",
+        "values": {
+          "field": [
+            {
+              "order": 0,
+              "value": "http:\/\/vores.kunst.dk\/daa_media\/Dokumenteret af SKF\/Billeder\/SKF\/SKF90\/SKF-1994-025_01.jpg",
+              "label": "Filename",
+              "name": "filename"
+            },
+            {
+              "order": 0,
+              "value": "",
+              "label": "Public Caption",
+              "name": "caption"
+            },
+            {
+              "order": 0,
+              "value": 1,
+              "label": "Primary Display",
+              "name": "primary"
+            }
+          ]
+        }
+      },
+      "onView": {
+        "order": 0,
+        "value": false
+      },
+      "lng": {
+        "order": 0,
+        "value": 12.530407,
+        "label": "Longitude"
+      },
+      "address": {
+        "order": 0,
+        "value": "Brog\u00e5rdsvej 64 Gentofte, 2820 Danmark",
+        "label": "Address"
+      }
+    },
+    {
+      "dimensions": {
+        "order": 5,
+        "value": "130 x 130 cm",
+        "label": "Dimensions"
+      },
+      "lat": {
+        "order": 0,
+        "value": 55.75509,
+        "label": "Latitude"
+      },
+      "primaryMakerBirth": {
+        "order": 0,
+        "value": 1940
+      },
+      "region": {
+        "order": 0,
+        "value": "Hovedstaden",
+        "label": "Region"
+      },
+      "id": {
+        "order": 0,
+        "value": 17,
+        "label": "Id"
+      },
+      "displayDate": {
+        "order": 3,
+        "value": 1983,
+        "label": "Date"
+      },
+      "provenance": {
+        "order": 0,
+        "value": "Nikolaj, K\u00f8benhavns Kommunes Udstillingsbygning",
+        "label": "Provenance"
+      },
+      "primaryMaker": {
+        "order": 3,
+        "value": "Steffen J\u00f8rgensen",
+        "label": "Primary Maker"
+      },
+      "institution": {
+        "order": 0,
+        "value": "Tj\u00f8rneg\u00e5rdsskolen",
+        "label": "Institution"
+      },
+      "classifications": {
+        "order": 0,
+        "value": "Maleri",
+        "label": "Type"
+      },
+      "primaryMakerId": {
+        "order": 0,
+        "value": 208,
+        "label": "Primary Maker ID"
+      },
+      "primaryMakerSalutation": {
+        "order": 0,
+        "value": "m"
+      },
+      "title": {
+        "order": 2,
+        "value": "G C (10,3) Type A",
+        "label": "Title"
+      },
+      "primaryMakerDeath": {
+        "order": 0,
+        "value": 0
+      },
+      "invno": {
+        "order": 9,
+        "value": "SKF-1994-026",
+        "label": "Object number"
+      },
+      "available": {
+        "order": 0,
+        "value": 0
+      },
+      "municipality": {
+        "order": 0,
+        "value": "Gentofte",
+        "label": "Municipality"
+      },
+      "media_0": {
+        "order": 0,
+        "label": "media",
+        "values": {
+          "field": [
+            {
+              "order": 0,
+              "value": "http:\/\/vores.kunst.dk\/daa_media\/Dokumenteret af SKF\/Billeder\/SKF\/SKF90\/SKF-1994-026_01.jpg",
+              "label": "Filename",
+              "name": "filename"
+            },
+            {
+              "order": 0,
+              "value": "",
+              "label": "Public Caption",
+              "name": "caption"
+            },
+            {
+              "order": 0,
+              "value": 1,
+              "label": "Primary Display",
+              "name": "primary"
+            }
+          ]
+        }
+      },
+      "onView": {
+        "order": 0,
+        "value": false
+      },
+      "lng": {
+        "order": 0,
+        "value": 12.530407,
+        "label": "Longitude"
+      },
+      "address": {
+        "order": 0,
+        "value": "Brog\u00e5rdsvej 64 Gentofte, 2820 Danmark",
+        "label": "Address"
+      }
+    },
+    {
+      "dimensions": {
+        "order": 5,
+        "value": "130 x 130 cm",
+        "label": "Dimensions"
+      },
+      "lat": {
+        "order": 0,
+        "value": 55.75514,
+        "label": "Latitude"
+      },
+      "primaryMakerBirth": {
+        "order": 0,
+        "value": 1940
+      },
+      "region": {
+        "order": 0,
+        "value": "Hovedstaden",
+        "label": "Region"
+      },
+      "id": {
+        "order": 0,
+        "value": 18,
+        "label": "Id"
+      },
+      "displayDate": {
+        "order": 3,
+        "value": 1983,
+        "label": "Date"
+      },
+      "provenance": {
+        "order": 0,
+        "value": "Nikolaj, K\u00f8benhavns Kommunes Udstillingsbygning",
+        "label": "Provenance"
+      },
+      "primaryMaker": {
+        "order": 3,
+        "value": "Steffen J\u00f8rgensen",
+        "label": "Primary Maker"
+      },
+      "institution": {
+        "order": 0,
+        "value": "Tj\u00f8rneg\u00e5rdsskolen",
+        "label": "Institution"
+      },
+      "classifications": {
+        "order": 0,
+        "value": "Maleri",
+        "label": "Type"
+      },
+      "primaryMakerId": {
+        "order": 0,
+        "value": 208,
+        "label": "Primary Maker ID"
+      },
+      "primaryMakerSalutation": {
+        "order": 0,
+        "value": "m"
+      },
+      "title": {
+        "order": 2,
+        "value": "G C (11,3)",
+        "label": "Title"
+      },
+      "primaryMakerDeath": {
+        "order": 0,
+        "value": 0
+      },
+      "invno": {
+        "order": 9,
+        "value": "SKF-1994-027",
+        "label": "Object number"
+      },
+      "available": {
+        "order": 0,
+        "value": 0
+      },
+      "municipality": {
+        "order": 0,
+        "value": "Gentofte",
+        "label": "Municipality"
+      },
+      "media_0": {
+        "order": 0,
+        "label": "media",
+        "values": {
+          "field": [
+            {
+              "order": 0,
+              "value": "http:\/\/vores.kunst.dk\/daa_media\/Dokumenteret af SKF\/Billeder\/SKF\/SKF90\/SKF-1994-027_01.jpg",
+              "label": "Filename",
+              "name": "filename"
+            },
+            {
+              "order": 0,
+              "value": "",
+              "label": "Public Caption",
+              "name": "caption"
+            },
+            {
+              "order": 0,
+              "value": 1,
+              "label": "Primary Display",
+              "name": "primary"
+            }
+          ]
+        }
+      },
+      "onView": {
+        "order": 0,
+        "value": false
+      },
+      "lng": {
+        "order": 0,
+        "value": 12.530407,
+        "label": "Longitude"
+      },
+      "address": {
+        "order": 0,
+        "value": "Brog\u00e5rdsvej 64 Gentofte, 2820 Danmark",
+        "label": "Address"
+      }
+    },
+    {
+      "dimensions": {
+        "order": 5,
+        "value": "130 x 130 cm",
+        "label": "Dimensions"
+      },
+      "primaryMakerBirth": {
+        "order": 0,
+        "value": 1940
+      },
+      "id": {
+        "order": 0,
+        "value": 19,
+        "label": "Id"
+      },
+      "displayDate": {
+        "order": 3,
+        "value": 1983,
+        "label": "Date"
+      },
+      "provenance": {
+        "order": 0,
+        "value": "Nikolaj, K\u00f8benhavns Kommunes Udstillingsbygning",
+        "label": "Provenance"
+      },
+      "primaryMaker": {
+        "order": 3,
+        "value": "Steffen J\u00f8rgensen",
+        "label": "Primary Maker"
+      },
+      "classifications": {
+        "order": 0,
+        "value": "Maleri",
+        "label": "Type"
+      },
+      "primaryMakerId": {
+        "order": 0,
+        "value": 208,
+        "label": "Primary Maker ID"
+      },
+      "primaryMakerSalutation": {
+        "order": 0,
+        "value": "m"
+      },
+      "title": {
+        "order": 2,
+        "value": "G C (12,3)",
+        "label": "Title"
+      },
+      "primaryMakerDeath": {
+        "order": 0,
+        "value": 0
+      },
+      "invno": {
+        "order": 9,
+        "value": "SKF-1994-028",
+        "label": "Object number"
+      },
+      "available": {
+        "order": 0,
+        "value": 0
+      },
+      "media_0": {
+        "order": 0,
+        "label": "media",
+        "values": {
+          "field": [
+            {
+              "order": 0,
+              "value": "http:\/\/vores.kunst.dk\/daa_media\/Dokumenteret af SKF\/Billeder\/SKF\/SKF90\/SKF-1994-028_01.jpg",
+              "label": "Filename",
+              "name": "filename"
+            },
+            {
+              "order": 0,
+              "value": "",
+              "label": "Public Caption",
+              "name": "caption"
+            },
+            {
+              "order": 0,
+              "value": 1,
+              "label": "Primary Display",
+              "name": "primary"
+            }
+          ]
+        }
+      },
+      "onView": {
+        "order": 0,
+        "value": false
+      }
+    },
+    {
+      "dimensions": {
+        "order": 5,
+        "value": "H\u00f8jde: 1,8 cm. Bredde: 2,5 cm. L\u00e6ngde: 21,5 cm. Indre omkreds: 21,5 cm. V\u00e6gt: 68 gram.",
+        "label": "Dimensions"
+      },
+      "primaryMakerBirth": {
+        "order": 0,
+        "value": 1948
+      },
+      "id": {
+        "order": 0,
+        "value": 20,
+        "label": "Id"
+      },
+      "displayDate": {
+        "order": 3,
+        "value": 1983,
+        "label": "Date"
+      },
+      "provenance": {
+        "order": 0,
+        "value": "Det Danske Kunstindustrimuseum, K\u00f8benhavn",
+        "label": "Provenance"
+      },
+      "primaryMaker": {
+        "order": 3,
+        "value": "J\u00f8rgen Bindesb\u00f8ll",
+        "label": "Primary Maker"
+      },
+      "classifications": {
+        "order": 0,
+        "value": "Smykker",
+        "label": "Type"
+      },
+      "primaryMakerId": {
+        "order": 0,
+        "value": 1681,
+        "label": "Primary Maker ID"
+      },
+      "primaryMakerSalutation": {
+        "order": 0,
+        "value": "m"
+      },
+      "title": {
+        "order": 2,
+        "value": "Armsmykke",
+        "label": "Title"
+      },
+      "primaryMakerDeath": {
+        "order": 0,
+        "value": 0
+      },
+      "invno": {
+        "order": 9,
+        "value": "SKFK-1987-029",
+        "label": "Object number"
+      },
+      "available": {
+        "order": 0,
+        "value": 1
+      },
+      "media_0": {
+        "order": 0,
+        "label": "media",
+        "values": {
+          "field": [
+            {
+              "order": 0,
+              "value": "http:\/\/vores.kunst.dk\/daa_media\/Dokumenteret af SKF\/Billeder\/Smykker\/1987_029_armb\u00e5nd_J\u00f8rgen_Bindesb\u00f8ll.jpg",
+              "label": "Filename",
+              "name": "filename"
+            },
+            {
+              "order": 0,
+              "value": "",
+              "label": "Public Caption",
+              "name": "caption"
+            },
+            {
+              "order": 0,
+              "value": 1,
+              "label": "Primary Display",
+              "name": "primary"
+            }
+          ]
+        }
+      },
+      "onView": {
+        "order": 0,
+        "value": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+/* ======================================== */
+/*         all colors page                  */
+/* ======================================== */
+
+body.colors-page .title {
+    text-align: center;
+    font-family: verdana;
+}
+
+body.colors-page .colors {
+    text-align: center;
+    font-family: verdana;
+    width: 80%;
+    margin: 0px auto;
+    display: block;
+}
+
+body.colors-page .description {
+    width: 60%;
+    margin: 0px auto;
+    display: block;
+    text-align: center;
+}
+
+body.colors-page .description__text {
+    font-size: 18px;
+    line-height: 28px;
+    font-family: verdana;
+    padding: 20px;
+}
+
+body.colors-page .description__link {
+    background-color: rgb(178,34,34);
+    color: white;
+    text-decoration: none;
+    padding: 2px 5px;
+}
+
+body.colors-page .colors__block {
+    float: left;
+    margin: 10px;
+}
+
+body.colors-page .colors__color {
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+}
+
+body.colors-page .colors__name {
+    display: block;
+    font-family: monospace;
+    text-align: center;
+}
+
+body.colors-page .colors__percentage {
+    text-align: center;
+    line-height: 150px;
+    display: block;
+    color: white;
+    text-shadow: 1px 1px 1px black;
+    font-size: 40px;
+    font-family: monospace;
+}
+
+body.colors-page .years {
+    width: 80%;
+    margin: 0px auto;
+    padding: 20px 0px 0px 0px;
+    clear: both;
+    text-align: center;
+}
+
+body.colors-page .years__title {
+    text-align: center;
+    font-family: verdana;
+}
+
+body.colors-page .years__chart {
+    width: 80%;
+}
+
+
+/* ======================================== */
+/*         specific artist page             */
+/* ======================================== */
+
+body.artist-page .artist-name {
+    text-align: center;
+    font-family: verdana;
+    margin: 20px 0px 40px 0px;
+}
+
+body.artist-page .images {
+    width: 80%;
+    margin: 0px auto;
+    text-align: center;
+}
+
+body.artist-page .images--image {
+    padding: 5px;
+}
+
+
+/* ======================================== */
+/*         specific color page              */
+/* ======================================== */
+
+body.color-page .color-block {
+    width: 80%;
+    height: 100px;
+    margin: 20px auto 40px auto;
+}
+
+body.color-page .color-block--title {
+    text-align: center;
+    font-family: verdana;
+    line-height: 100px;
+    color: white;
+    text-shadow: -1px -1px 1px black;
+}
+
+body.color-page .images {
+    width: 80%;
+    margin: 0px auto;
+    text-align: center;
+}
+
+body.color-page .images--image {
+    padding: 5px;
+}
+
+body.color-page .pagination {
+    padding: 40px 0px;
+    clear: both;
+    text-align: center;
+}
+
+body.color-page .pagination__link {
+    color: white;
+    text-shadow: 1px 1px 1px black;
+    padding: 10px;
+    text-decoration: none;
+    margin: 0px 20px;
+}
+
+/* ======================================== */
+/*                  art page                 */
+/* ======================================== */
+
+body.art-page .title {
+    text-align: center;
+    font-family: verdana;
+}
+
+body.art-page .info-text {
+    text-align: center;
+    font-family: monospace;
+}
+
+body.art-page .info-text__display-date { }
+body.art-page .info-text__dimensions { }
+body.art-page .info-text__maker { }
+
+body.art-page .image {
+    display: block;
+    margin: 40px auto;
+}
+
+body.art-page .colors {
+    text-align: center;
+    font-family: verdana;
+    width: 800px;
+    margin: 0px auto;
+    display: block;
+}
+
+body.art-page .colors__block {
+    float: left;
+    width: 20%;
+}
+
+body.art-page .colors__color {
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+}
+
+body.art-page .colors__name {
+    display: block;
+    font-family: monospace;
+    text-align: center;
+}
+
+body.art-page .colors__percentage {
+    text-align: center;
+    line-height: 150px;
+    display: block;
+    color: white;
+    text-shadow: 1px 1px 1px black;
+    font-size: 40px;
+    font-family: monospace;
+}
+
+

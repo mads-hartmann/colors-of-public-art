@@ -1,0 +1,5 @@
+.DS_Store
+*.pyc
+static/images
+.setup.made
+.venv

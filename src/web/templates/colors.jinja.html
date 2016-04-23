@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Colors of Public Art</title>
+        <link rel="stylesheet" href="/static/styles/index.css" type="text/css" media="screen" />
+    </head>
+    <body class="colors-page">
+        <h1 class="title">Colors of Public Art</h1>
+        <div class="description">
+            <p class="description__text">
+                This project was created by
+                <a href="http://mads-hartmann.com" target="_blank" class="description__link">Mads Hartmann</a>
+                and <a href="http://mikkelhartmann.dk/"  target="_blank" class="description__link">Mikkel Hartmann</a>
+                while attending <a href="https://www.facebook.com/events/186114941758670/"  target="_blank" class="description__link">Hack our Art</a>
+                in Copenhagen from the 8th to 10th of April 2016. You can find the code and more
+                information about the project over on
+                <a href="https://github.com/mads379/colors-of-public-art"  target="_blank" class="description__link">github.com/mads379/colors-of-public-art</a>
+            </p>
+        </div>
+        <div class="colors">
+            {% for colorname, matches in color_matches %}
+            {% set r,g,b = color_name_mapping[colorname] %}
+            <div class="colors__block">
+                <a href="/colors/{{colorname}}">
+                    <span class="colors__color" style="background-color: rgb({{r}},{{g}},{{b}});">
+                        <span class="colors__percentage">{{ matches}}</span>
+                    </span>
+                </a>
+                <a href="/colors/{{colorname}}" class="colors__name" style="color: rgb({{r}},{{g}},{{b}});">
+                    {{colorname}}
+                </a>
+            </div>
+            {% endfor %}
+        </div>
+
+        <div class="years">
+            <h2 class="years__title">The Colors of Public Art through the years</h2>
+            <a href="/static/assets/chart.png">
+                <img class="years__chart" src="/static/assets/chart.png"/>
+            </a>
+        </div>
+
+    </body>
+</html>
