@@ -1,9 +1,9 @@
 import os
-import colors
 import argparse
 import sys
 from PIL import Image
 from common import data
+from common import colors
 
 
 def analyze(start, end):
